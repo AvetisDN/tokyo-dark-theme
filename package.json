@@ -10,7 +10,7 @@
     "icon": "icon/tokyo-gogh.png",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.62.0"
+        "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
@@ -22,14 +22,14 @@
     "contributes": {
         "themes": [
             {
+                "label": "Tokyo Storm Gogh",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tokyo-storm.json"
+            },
+            {
                 "label": "Tokyo Night Gogh",
                 "uiTheme": "vs-dark",
                 "path": "./themes/tokyo-night.json"
-            },
-            {
-                "label": "Tokyo Storm Gogh",
-                "uiTheme": "vs-dark",
-                "path": "./themes/tokyo-night-storm.json"
             }
         ]
     }
