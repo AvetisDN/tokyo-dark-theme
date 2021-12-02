@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "tokyo-night" extension will be documented in this file.
+## [2021-11-08]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- First Release
 
-## [Unreleased]
 
-- Initial release
+## [2021-12-02]
+
+- Alt syntax variant for Tokyo Night
