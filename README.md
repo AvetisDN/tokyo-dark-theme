@@ -1,6 +1,6 @@
 # Tokyo Night Themes
 
-Dark themes based on Nord palette
+Dark themes based on Tokyo Night and Tokyo Storm palettes by Gogh
 
 [Gogh project website](https://mayccoll.github.io/Gogh/)
 

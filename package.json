@@ -8,7 +8,7 @@
         "email": "avetisdn@gmail.com"
     },
     "icon": "icon/tokyo-gogh.png",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.60.0"
     },
