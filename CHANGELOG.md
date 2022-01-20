@@ -11,4 +11,8 @@
 
 ## [2022-01-20]
 
-- Approximately finished version. Fixed README.
+- Approximately finished version.
+
+## [2022-01-20]
+
+- Fixed README.

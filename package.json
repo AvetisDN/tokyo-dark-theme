@@ -8,7 +8,18 @@
         "email": "avetisdn@gmail.com"
     },
     "icon": "icon/tokyo-gogh.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "keywords": [
+        "theme",
+        "color-theme",
+        "dark theme",
+        "tokyo",
+        "tokyo night",
+        "one dark",
+        "neon",
+        "dark",
+        "syntax highlight"
+    ],
     "engines": {
         "vscode": "^1.60.0"
     },
